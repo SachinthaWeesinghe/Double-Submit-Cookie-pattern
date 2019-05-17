@@ -8,7 +8,7 @@ In this project used Double Submit Cookie Pattern to avoid Cross-site Request Fo
 ###### Clone the project to the local Machine
 
 ```
-git clone https://github.com/AnuradhaSD/CSRF_DoubleSubmitCookiePattern.git
+git clone https://github.com/SachinthaWeesinghe/Double-Submit-Cookie-pattern
 
 ```
 ### Run application
