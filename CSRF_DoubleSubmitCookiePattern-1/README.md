@@ -34,4 +34,4 @@ Upon Sceessful login directs to Form
 ```
 localhost:8080/CSRF/form.jsp
 ```
-### Blog URL : [Double Submit Cookie Pattern](http://sanjeewafirst.blogspot.com/2018/09/cross-site-request-forgery-protection_7.html)
+### Blog URL : [Double Submit Cookie Pattern](https://sachinthaweesinghe.blogspot.com/b/post-preview?token=APq4FmBMiienKy4XUqK7IHjcgSMyuvOI1IWbrjMs-r32mzuUmi_LLVSKocgEkAl2RFmpqN_zP-bwB5OlvVCdXomlPHNTntufSARfahqACsONVoZDHWklDjpiByxMVL15yA0lzEg3MQJu&postId=6727372578414464531&type=POST)
