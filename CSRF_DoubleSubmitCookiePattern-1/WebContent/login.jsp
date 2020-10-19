@@ -14,7 +14,7 @@
 				<td><input type="text" name="username"></td>
 			</tr>
 			<tr>
-				<td>Enter Password:</td>
+				<td>Enter the Password:</td>
 				<td><input type="text" name="password"></td>
 			</tr>
 			<tr>
