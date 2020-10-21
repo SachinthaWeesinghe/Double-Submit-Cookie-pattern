@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 /**
- * Servlet implementation class LoginCheck
+ * Servlet implementation class and LoginCheck
  */
 @WebServlet("/LoginCheck")
 public class Login extends HttpServlet {
